@@ -1,0 +1,5 @@
+C:\Users\i ball\source\repos\AZ-204\Storage Accounts\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.AssemblyReference.cache
+C:\Users\i ball\source\repos\AZ-204\Storage Accounts\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i ball\source\repos\AZ-204\Storage Accounts\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.AssemblyInfoInputs.cache
+C:\Users\i ball\source\repos\AZ-204\Storage Accounts\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.AssemblyInfo.cs
+C:\Users\i ball\source\repos\AZ-204\Storage Accounts\BlobApp\BlobApp\obj\Debug\net6.0\BlobApp.csproj.CoreCompileInputs.cache
